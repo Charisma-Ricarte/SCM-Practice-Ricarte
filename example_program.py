@@ -1,7 +1,7 @@
 # example_program.py
 
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Hello, {name}! Welcome to my example program!"
 
 def add(a, b):
     return a + b
